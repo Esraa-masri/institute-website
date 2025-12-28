@@ -1,0 +1,11 @@
+:root{
+    --primary:#1E3A8A;
+    --accent:#2563EB;
+    --bg:#ffffff;
+}
+body{
+    margin: 0;
+    font-family: 'Cario',sans-serif;
+    background-color: var(--bg);
+    color: #111827;
+}
